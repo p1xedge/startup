@@ -1,1 +1,4 @@
-
+#!/bin/sh
+clear
+sudo aptitude update
+sudo aptitude upgrade
